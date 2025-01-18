@@ -113,14 +113,14 @@ Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a l
 
    Foro-Alura esta desarrollado en java implementando Spring Boot.
 
-   * [Repositorio](https://github.com/pabloboer/foro_alura)
+   * [Repositorio](https://github.com/BrikmanP/t-picoJava/)
 
 ## Abrir localmente
 
 Para correr Foro-Alura en tu máquina local:
 
 * Determina donde quieres alojar el proyecto y clonalo en la ubicacion escojida:
-   * git clone https://github.com/pabloboer/foro_alura.git
+   * git clone https://github.com/BrikmanP/t-picoJava/
 
 * Con el IDE de tu preferencia procede a abrir el proyecto y ejecutarlo.
 
@@ -131,8 +131,8 @@ Para correr Foro-Alura en tu máquina local:
 
 ---
 ## Desarrollador
-<strong>Made by Pablo Boer</strong></br>
-<a href="https://www.linkedin.com/in/pablo-boer-1616735a/" target="_blank">
+<strong>Made Brikman Paul Morales</strong></br>
+<a href="https://www.linkedin.com/in/brikman-paul-morales-52a9a7245/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
